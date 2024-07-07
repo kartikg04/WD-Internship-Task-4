@@ -47,6 +47,7 @@ body {
 .todo-list ul {
   list-style: none;
   padding: 0;
+  color: white;
 }
 
 .todo-list li {
